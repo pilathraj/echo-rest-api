@@ -6,6 +6,7 @@ go get github.com/lib/pq/  not used.
 go get github.com/jinzhu/gorm
 go get github.com/jinzhu/gorm/dialects/postgres
 go get gopkg.in/go-playground/validator.v9
+go get -u github.com/golang/dep/cmd/dep
 
 ```
 
