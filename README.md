@@ -56,3 +56,12 @@ COMMENT ON TABLE public.products
 go run main.go
 ```
 
+## PR Moved dep to Go mod.
+-  go mod support from go 1.11
+
+### dev cmd
+- move file outside the gopth. ( I don't know why it recommented).
+- 
+```
+run go mod init
+```
